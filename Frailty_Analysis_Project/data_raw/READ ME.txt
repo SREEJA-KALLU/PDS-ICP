@@ -1,0 +1,27 @@
+META DATA
+Description:
+This dataset contains physical health measurements from 10 female participants. The data includes height (in inches), weight (in pounds), age (in years), grip strength ( in kilograms), and frailty status (a qualitative indication of the presence or absence of frailty symptoms). The study aims to explore the relationship between grip strength and frailty in women.
+
+Attributes:
+Height: Participants' height in inches.
+Weight: Participants' weight in pounds.
+Age: Participants' age in years.
+Grip Strength: The static force (in kilograms) exerted by the hand when squeezing a dynamometer.
+Frailty: A categorical variable (Y/N) indicating whether the participant shows frailty symptoms.
+
+Participants:
+10 female participants, aged between 17 and 51.
+
+Units of Measurement:
+Height: Inches
+Weight: Pounds
+Age: Years
+Grip Strength: Kilograms
+Frailty: Categorical (Yes/No)
+
+Data Type:
+Height, Weight, Age, Grip Strength: Numeric (continuous variables)
+Frailty: Categorical (Y/N)
+
+Keywords:
+Grip strength, Frailty, Female health, Physical weakness, Aging, Dynamometer
