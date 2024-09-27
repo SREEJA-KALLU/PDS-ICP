@@ -1,0 +1,21 @@
+Visualizations - what each makes easier to analyze:
+
+1.Bar Plot (Average Math Score by Gender):
+
+Analysis: This plot shows the average math scores for males and females. It highlights gender performance differences in math, making it easy to compare group averages.
+
+2.Box Plot (Score Distribution):
+
+Analysis: The box plot shows the spread of scores in math, reading, and writing. It helps detect outliers and understand the range of performance, such as variations between subjects and where most students' scores fall.
+
+3.Scatter Plot (Math vs Reading Scores):
+
+Analysis: This scatter plot visualizes the relationship between math and reading scores, indicating whether students who perform well in one subject also do well in the other.
+
+4.Histogram (Math Score Distribution):
+
+Analysis: The histogram illustrates the frequency distribution of math scores. It helps identify common score ranges, such as whether most students score within a particular range.
+
+5.Correlation Heatmap (Math, Reading, Writing):
+
+Analysis: The heatmap shows the correlation between math, reading, and writing scores. It helps identify strong positive correlations, such as how well scores in one subject predict scores in another.
